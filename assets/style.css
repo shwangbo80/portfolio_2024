@@ -40,7 +40,7 @@ background-color: black;
 }
 
 .headline-container {
-    height: 70vh;
+    height: 75vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -50,6 +50,13 @@ background-color: black;
     height: 500px;
     width: 100%;
     object-fit: cover;
+}
+
+.about-container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
